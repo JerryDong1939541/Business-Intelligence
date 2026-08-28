@@ -1,0 +1,52 @@
+state_code,state_name,skill_jobs,labor_force,BA_skill_jobs_per_100k,rank_abs,rank_density,rank_shift,low_sample_flag
+DC,District of Columbia,82,412234,19.892,22,1,21,False
+VA,Virginia,305,4546485,6.708,5,2,3,False
+DE,Delaware,26,535706,4.853,38,3,35,False
+MA,Massachusetts,181,3994387,4.531,12,4,8,False
+CT,Connecticut,89,2002571,4.444,21,5,16,False
+RI,Rhode Island,27,610041,4.426,36,6,30,False
+NJ,New Jersey,209,5145349,4.062,8,7,1,False
+WA,Washington,167,4167685,4.007,13,8,5,False
+OH,Ohio,228,6098736,3.738,7,9,-2,False
+IL,Illinois,246,6762041,3.638,6,10,-4,False
+NC,North Carolina,201,5592551,3.594,9,11,-2,False
+MO,Missouri,112,3185720,3.516,15,12,3,False
+AR,Arkansas,49,1454780,3.368,27,13,14,False
+WI,Wisconsin,106,3187642,3.325,16,14,2,False
+GA,Georgia,189,5732629,3.297,11,15,-4,False
+NY,New York,335,10284583,3.257,4,16,-12,False
+VT,Vermont,11,358176,3.071,42,17,25,True
+MN,Minnesota,97,3174343,3.056,19,18,1,False
+CO,Colorado,100,3324268,3.008,17,19,-2,False
+FL,Florida,347,11737686,2.956,3,20,-17,False
+IA,Iowa,51,1729153,2.949,26,21,5,False
+MD,Maryland,99,3397200,2.914,18,22,-4,False
+MI,Michigan,145,5109095,2.838,14,23,-9,False
+PA,Pennsylvania,191,6802567,2.808,10,24,-14,False
+KS,Kansas,40,1554434,2.573,30,25,5,False
+CA,California,520,20454381,2.542,1,26,-25,False
+NE,Nebraska,27,1081853,2.496,36,27,9,False
+TN,Tennessee,90,3680703,2.445,20,28,-8,False
+TX,Texas,388,16034699,2.42,2,29,-27,False
+SC,South Carolina,62,2700129,2.296,24,30,-6,False
+IN,Indiana,81,3551668,2.281,23,31,-8,False
+OK,Oklahoma,43,1976114,2.176,28,32,-4,False
+NH,New Hampshire,16,791352,2.022,40,33,7,True
+NV,Nevada,34,1705372,1.994,34,34,0,False
+UT,Utah,37,1868725,1.98,32,35,-3,False
+OR,Oregon,42,2231984,1.882,29,36,-7,False
+ID,Idaho,18,1002640,1.795,39,37,2,True
+ME,Maine,13,733781,1.772,41,38,3,True
+LA,Louisiana,38,2176191,1.746,31,39,-8,False
+AK,Alaska,6,363709,1.65,47,40,7,True
+HI,Hawaii,11,710160,1.549,42,41,1,True
+AZ,Arizona,58,3778884,1.535,25,42,-17,False
+AL,Alabama,36,2447875,1.471,33,43,-10,False
+KY,Kentucky,31,2209971,1.403,35,44,-9,False
+SD,South Dakota,6,494515,1.213,47,45,2,True
+WV,West Virginia,9,804058,1.119,44,46,-2,True
+WY,Wyoming,3,307647,0.975,51,47,4,True
+ND,North Dakota,4,427335,0.936,50,48,2,True
+MT,Montana,5,589412,0.848,49,49,0,True
+NM,New Mexico,8,1007957,0.794,46,50,-4,True
+MS,Mississippi,9,1377664,0.653,44,51,-7,True

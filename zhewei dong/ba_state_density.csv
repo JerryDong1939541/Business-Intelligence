@@ -1,0 +1,52 @@
+state_code,state_name,ba_jobs,labor_force,BA_jobs_per_100k,rank_abs,rank_density,rank_shift,low_sample_flag
+DC,District of Columbia,56,412234,13.585,18,1,17,False
+NJ,New Jersey,192,5145349,3.732,5,2,3,False
+VA,Virginia,160,4546485,3.519,6,3,3,False
+MA,Massachusetts,137,3994387,3.43,8,4,4,False
+RI,Rhode Island,19,610041,3.115,32,5,27,True
+NC,North Carolina,146,5592551,2.611,7,6,1,False
+MD,Maryland,83,3397200,2.443,14,7,7,False
+CT,Connecticut,48,2002571,2.397,23,8,15,False
+GA,Georgia,136,5732629,2.372,9,9,0,False
+WI,Wisconsin,75,3187642,2.353,15,10,5,False
+FL,Florida,263,11737686,2.241,3,11,-8,False
+DE,Delaware,12,535706,2.24,38,12,26,True
+NY,New York,226,10284583,2.197,4,13,-9,False
+MI,Michigan,109,5109095,2.133,12,14,-2,False
+IL,Illinois,136,6762041,2.011,9,15,-6,False
+SC,South Carolina,52,2700129,1.926,20,16,4,False
+MN,Minnesota,59,3174343,1.859,17,17,0,False
+NE,Nebraska,20,1081853,1.849,31,18,13,False
+TX,Texas,295,16034699,1.84,2,19,-17,False
+OH,Ohio,104,6098736,1.705,13,20,-7,False
+PA,Pennsylvania,114,6802567,1.676,11,21,-10,False
+KS,Kansas,26,1554434,1.673,28,22,6,False
+WA,Washington,68,4167685,1.632,16,23,-7,False
+IA,Iowa,28,1729153,1.619,26,24,2,False
+CO,Colorado,52,3324268,1.564,20,25,-5,False
+IN,Indiana,55,3551668,1.549,19,26,-7,False
+MO,Missouri,48,3185720,1.507,23,27,-4,False
+CA,California,298,20454381,1.457,1,28,-27,False
+UT,Utah,27,1868725,1.445,27,29,-2,False
+ME,Maine,10,733781,1.363,40,30,10,True
+TN,Tennessee,49,3680703,1.331,22,31,-9,False
+AR,Arkansas,17,1454780,1.169,34,32,2,True
+AZ,Arizona,44,3778884,1.164,25,33,-8,False
+MS,Mississippi,15,1377664,1.089,35,34,1,True
+OR,Oregon,23,2231984,1.03,29,35,-6,False
+NH,New Hampshire,8,791352,1.011,42,36,6,True
+ID,Idaho,10,1002640,0.997,40,37,3,True
+WY,Wyoming,3,307647,0.975,46,38,8,True
+AL,Alabama,22,2447875,0.899,30,39,-9,False
+KY,Kentucky,19,2209971,0.86,32,40,-8,True
+VT,Vermont,3,358176,0.838,46,41,5,True
+AK,Alaska,3,363709,0.825,46,42,4,True
+NV,Nevada,13,1705372,0.762,37,43,-6,True
+WV,West Virginia,6,804058,0.746,43,44,-1,True
+HI,Hawaii,5,710160,0.704,44,45,-1,True
+ND,North Dakota,3,427335,0.702,46,46,0,True
+LA,Louisiana,15,2176191,0.689,35,47,-12,True
+OK,Oklahoma,11,1976114,0.557,39,48,-9,True
+SD,South Dakota,2,494515,0.404,50,49,1,True
+NM,New Mexico,4,1007957,0.397,45,50,-5,True
+MT,Montana,0,589412,0.0,51,51,0,True

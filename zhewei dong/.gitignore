@@ -1,0 +1,18 @@
+# ---- 大体积原始数据(超 GitHub 100MB 限制,见 README 获取方式)----
+linkedin_job_postings.csv
+*.zip
+
+# ---- 数据衍生品 / 中间产物(可由脚本重建)----
+BA_related_US_jobs_2024_cleaned.csv
+ba_skill_us_clean.csv
+analyst_raw.csv
+ba_us_clean.csv
+ba_excluded.csv
+
+# ---- 系统 / 环境 ----
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
